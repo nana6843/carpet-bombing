@@ -1,6 +1,6 @@
 # Carpet-bombing DDoS detection — reproduction bundle
 
-Public, reviewer-facing code and data for the paper on detecting **carpet-bombing
+Data for the paper on detecting **carpet-bombing
 DDoS** in sampled NetFlow. Everything here reproduces the paper's tables and
 figures from **anonymized** data — no real customer IPs, keys, or raw flows are
 included.
