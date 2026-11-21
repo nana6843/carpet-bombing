@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Large CSVs: tracked as <name>.csv.gz instead (see README, "Large files").
+# Run ./unpack.sh after cloning to restore them.
+exports_anon/flows_2026-10-18.csv
+exports_anon/flows_2026-10-19.csv
+exports_anon/flows_2026-10-20.csv
+exports_anon/flows_2026-10-21.csv
+exports_anon/flows_2026-10-22.csv
+exports_anon/flows_2026-10-23.csv
+exports_anon/flows_2026-10-24.csv
+exports_anon/flows_2026-10-25.csv
+exports_anon/flows_2026-10-26.csv
+feature_extraction/features_v2.csv
+paper_experiments/baselines/labeled_features.csv
+paper_experiments/mimicry/mimicry_predictions.csv
+paper_experiments/roc/roc_unseen.csv
